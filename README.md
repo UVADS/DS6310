@@ -29,28 +29,7 @@
 
 ### Topics
 
-1. Foundations of probability
-    - Events and probability spaces
-    - Conditional probability
-    - Independence
-
-2. Random variables
-    - Probability distributions
-    - Expectation, variance, and moments
-    - Multiple random variables, covariance, and correlation
-
-3. Limit theorems
-    - Sums of random variables
-    - Law of large numbers
-    - Central limit theorem
-  
-4. Stochastic processes
-    - Markov processes
-    - Poisson processes
-  
-5. Tail bounds
-    - Concentration inequalities
-    - Sub-Gaussian and sub-exponential distributions
+TBD
 
 --------------
 
@@ -71,12 +50,7 @@
 
 ### Grades
 
-Final grades will be computed using the following weighting of assignments and exams:
-
-- Homework
-- Reading quizzes
-- Midterm exam
-- Final exam
+Final grades will be computed using a weighting of assignments and exams.
 
 Grading scale:
 
