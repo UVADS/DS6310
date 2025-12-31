@@ -19,10 +19,13 @@
 
 - Course code snippets
 
-- Course reading quizzes
+### Additional resources
 
+- [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) (ESL)
 
-**Additional Resources**
+- [Statistical Inference](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf) (Casella & Berger)
+
+- [Prediction, Estimation, and Attribution](https://med.stanford.edu/content/dam/sm/dbds/documents/biostats-workshop/paper-1-.pdf)
 
 
 --------------
