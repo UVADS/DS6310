@@ -44,7 +44,7 @@ TBD
 
 <u>Feb 26 2026</u>: Midterm exam
 
-<u>Mar 04 - 06 2026</u>: Spring recess (no class)
+<u>Mar 04-06 2026</u>: Spring recess (no class)
 
 <u>May 04 2026</u>: Final exam (2:00 - 5:00 pm, location TBD)
 
