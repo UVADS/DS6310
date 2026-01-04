@@ -3,7 +3,7 @@
 ### Course information
 
 - Instructor: [Jordan Bryan](https://j-g-b.github.io) (jbryan@virginia.edu)
-  - Lecture: Tues, Thurs 9:30 - 10:45 am, location TBD
+  - Lecture: Tues, Thurs 9:30 - 10:45 am, Data Science Building Room 246
   - Office hours: TBD
 - Teaching Assistant: TBD
   - Office hours: TBD
