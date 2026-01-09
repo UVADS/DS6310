@@ -32,7 +32,7 @@
 
 1. Foundations of inference
   - Sampling distributions
-  - Data reduction
+  - Point estimation, interval estimation, and hypothesis testing
   - Optimality criteria
 
 2. Likelihood methods
@@ -53,6 +53,7 @@
 5. Prediction
   - Estimates of predictive accuracy
   - Shrinkage and ridge regression
+  - Contemporary ideas in prediction (if time allows)
 
 --------------
 
@@ -60,29 +61,29 @@
 
 <u>Jan 13 2026</u>: Course overview
 
-[//]: # <u>Jan 15 2026</u>: TBD
+[//]: # <u>Jan 15 2026</u>: TBD HW1 assigned
 
 [//]: # <u>Jan 20 2026</u>: TBD
 
-[//]: # <u>Jan 22 2026</u>: TBD
+[//]: # <u>Jan 22 2026</u>: TBD HW2 assigned
 
 [//]: # <u>Jan 27 2026</u>: TBD
 
-[//]: # <u>Jan 29 2026</u>: TBD
+[//]: # <u>Jan 29 2026</u>: TBD HW3 assigned
 
 [//]: # <u>Feb 03 2026</u>: TBD
 
-[//]: # <u>Feb 05 2026</u>: TBD
+[//]: # <u>Feb 05 2026</u>: TBD HW4 assigned
 
 [//]: # <u>Feb 10 2026</u>: TBD
 
-[//]: # <u>Feb 12 2026</u>: TBD
+[//]: # <u>Feb 12 2026</u>: TBD HW5 assigned
 
 [//]: # <u>Feb 17 2026</u>: TBD
 
-[//]: # <u>Feb 19 2026</u>: TBD
+[//]: # <u>Feb 19 2026</u>: TBD Midterm practice given
 
-[//]: # <u>Feb 24 2026</u>: TBD
+[//]: # <u>Feb 24 2026</u>: Midterm review
 
 <u>Feb 26 2026</u>: Midterm exam
 
@@ -90,27 +91,27 @@
 
 [//]: # <u>Mar 10 2026</u>: TBD
 
-[//]: # <u>Mar 12 2026</u>: TBD
+[//]: # <u>Mar 12 2026</u>: TBD HW6 assigned
 
 [//]: # <u>Mar 17 2026</u>: TBD
 
-[//]: # <u>Mar 19 2026</u>: TBD
+[//]: # <u>Mar 19 2026</u>: TBD HW7 assigned
 
 [//]: # <u>Mar 24 2026</u>: TBD
 
-[//]: # <u>Mar 26 2026</u>: TBD
+[//]: # <u>Mar 26 2026</u>: TBD HW8 assigned
 
 [//]: # <u>Mar 31 2026</u>: TBD
 
-[//]: # <u>Apr 02 2026</u>: TBD
+[//]: # <u>Apr 02 2026</u>: TBD HW9 assigned
 
 [//]: # <u>Apr 07 2026</u>: TBD
 
-[//]: # <u>Apr 09 2026</u>: TBD
+[//]: # <u>Apr 09 2026</u>: TBD HW10 assigned
 
 [//]: # <u>Apr 14 2026</u>: TBD
 
-[//]: # <u>Apr 16 2026</u>: TBD
+[//]: # <u>Apr 16 2026</u>: TBD HW11 assigned
 
 [//]: # <u>Apr 21 2026</u>: TBD
 
@@ -129,7 +130,7 @@ Final grades will be computed using the following weighting:
 
 - Attendance (5%)
 - Homework (30%)
-- Structured class discussions* (15%)
+- Homework explications (15%)
 - Midterm exam (20%)
 - Final exam (30%)
 
@@ -146,7 +147,6 @@ Grading scale:
 - <70 F
 
 *Note that a B- is the lowest satisfactory grade for graduate credit.*
-
 
 ### Course Policies
 
