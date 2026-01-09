@@ -5,7 +5,7 @@
 - Instructor: [Jordan Bryan](https://j-g-b.github.io) (jbryan@virginia.edu)
   - Lecture: Tues, Thurs 9:30 - 10:45 am, Data Science Building Room 246
   - Office hours: TBD
-- Teaching Assistant: TBD
+- Teaching Assistant: [Elizabeth Miller](https://datascience.virginia.edu/people/elizabeth-miller) (zrc3hc@virginia.edu)
   - Office hours: TBD
 - [Canvas site](https://canvas.its.virginia.edu/courses/166996)
 
@@ -15,15 +15,13 @@
 
 - [Computer Age Statistical Inference: Algorithms, Evidence, and Data Science](https://hastie.su.domains/CASI/) (CASI)
 
+- [Statistical Inference](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf) (Casella & Berger)
+
 - Course notes
 
 - Course code snippets
 
 ### Additional resources
-
-- [The Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/) (ESL)
-
-- [Statistical Inference](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf) (Casella & Berger)
 
 - [Prediction, Estimation, and Attribution](https://med.stanford.edu/content/dam/sm/dbds/documents/biostats-workshop/paper-1-.pdf)
 
@@ -32,7 +30,29 @@
 
 ### Topics
 
-TBD
+1. Foundations of inference
+  - Sampling distributions
+  - Data reduction
+  - Optimality criteria
+
+2. Likelihood methods
+  - Parametric models and exponential families
+  - Information
+  - Maximum likelihood
+  
+3. Asymptotic evaluations
+  - Consistency
+  - Delta method
+  - Asymptotic properties of MLEs
+
+4. Bootstrapping and resampling methods
+  - The jackknife estimate of standard error
+  - Non-parametric bootstrap
+  - Parametric bootstrap
+
+5. Prediction
+  - Estimates of predictive accuracy
+  - Shrinkage and ridge regression
 
 --------------
 
@@ -42,9 +62,61 @@ TBD
 
 [//]: # <u>Jan 15 2026</u>: TBD
 
+[//]: # <u>Jan 20 2026</u>: TBD
+
+[//]: # <u>Jan 22 2026</u>: TBD
+
+[//]: # <u>Jan 27 2026</u>: TBD
+
+[//]: # <u>Jan 29 2026</u>: TBD
+
+[//]: # <u>Feb 03 2026</u>: TBD
+
+[//]: # <u>Feb 05 2026</u>: TBD
+
+[//]: # <u>Feb 10 2026</u>: TBD
+
+[//]: # <u>Feb 12 2026</u>: TBD
+
+[//]: # <u>Feb 17 2026</u>: TBD
+
+[//]: # <u>Feb 19 2026</u>: TBD
+
+[//]: # <u>Feb 24 2026</u>: TBD
+
 <u>Feb 26 2026</u>: Midterm exam
 
-<u>Mar 04-06 2026</u>: Spring recess (no class)
+<u>Mar 03-05 2026</u>: Spring recess (no class)
+
+[//]: # <u>Mar 10 2026</u>: TBD
+
+[//]: # <u>Mar 12 2026</u>: TBD
+
+[//]: # <u>Mar 17 2026</u>: TBD
+
+[//]: # <u>Mar 19 2026</u>: TBD
+
+[//]: # <u>Mar 24 2026</u>: TBD
+
+[//]: # <u>Mar 26 2026</u>: TBD
+
+[//]: # <u>Mar 31 2026</u>: TBD
+
+[//]: # <u>Apr 02 2026</u>: TBD
+
+[//]: # <u>Apr 07 2026</u>: TBD
+
+[//]: # <u>Apr 09 2026</u>: TBD
+
+[//]: # <u>Apr 14 2026</u>: TBD
+
+[//]: # <u>Apr 16 2026</u>: TBD
+
+[//]: # <u>Apr 21 2026</u>: TBD
+
+[//]: # <u>Apr 23 2026</u>: TBD
+
+<u>Apr 28 2026</u>: Final review
 
 <u>May 04 2026</u>: Final exam (2:00 - 5:00 pm, location TBD)
 
@@ -53,7 +125,13 @@ TBD
 
 ### Grades
 
-Final grades will be computed using a weighting of assignments and exams.
+Final grades will be computed using the following weighting:
+
+- Attendance (5%)
+- Homework (30%)
+- Structured class discussions* (15%)
+- Midterm exam (20%)
+- Final exam (30%)
 
 Grading scale:
 
@@ -69,6 +147,7 @@ Grading scale:
 
 *Note that a B- is the lowest satisfactory grade for graduate credit.*
 
+
 ### Course Policies
 
 **Submitting Homework**
@@ -81,11 +160,11 @@ Grades for (on-time) homework will be made visible to students no later than one
 
 The expectation in this course is that all assignments will be submitted on time. Submitting your work on time respects the efforts of your instructor and teaching assistant, and it ensures that you are prepared to learn subsequent material.
 
-Assignments turned in after the due date incur a 10% penalty per late day. For example, an assignment due at 9:30 am on Wednesday that is submitted to Canvas at 3:00 pm on Friday will incur a 30% penalty. If the assignment would have received a 95% had it been returned on time, then the late grade is 65%. Note that weekend days count towards the late penalty.
+Assignments turned in after the due date incur a 10% penalty per late day. For example, an assignment due at 9:30 am on Tuesday that is submitted to Canvas at 3:00 pm on Thursday will incur a 30% penalty. If the assignment would have received a 95% had it been returned on time, then the late grade is 65%. Note that weekend days count towards the late penalty.
 
 I will not accept work that is late by more than one week past its due date. 
 
-*To provide flexibility for weeks in which life circumstances do not permit the completion of your coursework, your lowest homework grade will be dropped. Additionally, your two lowest reading quiz grades will be dropped.*
+*To provide flexibility for weeks in which life circumstances do not permit the completion of your coursework, your lowest homework grade will be dropped.*
 
 **Class Attendance**
 
