@@ -203,10 +203,11 @@ An explication is a detailed explanation. The goal of homework explications is t
 For each homework that is assigned, two students will be asked to give an explication. Explications will take place during the class period coinciding with the assignment due date (typically this will be a Thursday). Specifically,
 
 1. At the start of class time, the instructor will choose a homework problem from the week's assignment and ask one of the students to present their solution to the problem to the class on the whiteboard (if an element of the solution involves a simulation, the student may use a laptop as well).
-2. A brief Q&A / discussion will follow, in which members of the class and/or the instructor may ask clarifying questions of the presenting student.
+
+2. A Q&A / discussion will follow, in which members of the class and/or the instructor may ask clarifying questions of the presenting student. Subjects of relevance to lecture material will be elucidated.
 
 3. Steps 1. and 2. will be repeated for the second student, but a different problem will be chosen.
-The two explications combined should take around 20-25 minutes of class time.
+The two explications combined should take around 25-30 minutes of class time.
 
 **How will explications be graded?**
 
