@@ -140,7 +140,7 @@ Final grades will be computed using the following weighting:
 
 - Attendance (5%)
 - Homework (30%)
-- [Homework explications](https://canvas.its.virginia.edu/courses/166996/pages/homework-explications) (15%)
+- [Homework explications](#homework-explications) (15%)
 - Midterm exam (20%)
 - Final exam (30%)
 
@@ -189,3 +189,38 @@ Students are expected to communicate with me as soon as possible regarding exten
   - [School of Data Science Support and Policies](https://canvas.its.virginia.edu/courses/152505/pages/school-of-data-science-support-and-policies)
   
   - [University Support and Politices](https://canvas.its.virginia.edu/courses/152505/pages/university-support-and-policies)
+
+---------
+
+### Homework explications
+
+**Definition and goal**
+
+An explication is a detailed explanation. The goal of homework explications is to give students the opportunity to explain, in detail, their reasoning as they work towards the solution of a homework problem. Explications are intended to encourage real-time logical thinking and argument based upon the principles learned in class and in readings.
+
+**How will explications be implemented?**
+
+For each homework that is assigned, two students will be asked to give an explication. Explications will take place during the class period coinciding with the assignment due date (typically this will be a Thursday). Specifically,
+
+1. At the start of class time, the instructor will choose a homework problem from the week's assignment and ask one of the students to present their solution to the problem to the class on the whiteboard (if an element of the solution involves a simulation, the student may use a laptop as well).
+2. A brief Q&A / discussion will follow, in which members of the class and/or the instructor may ask clarifying questions of the presenting student.
+
+3. Steps 1. and 2. will be repeated for the second student, but a different problem will be chosen.
+The two explications combined should take around 20-25 minutes of class time.
+
+**How will explications be graded?**
+
+Your grade will be determined by the instructor based on a combination of
+
+1. The quality of your solution.
+2. The clarity of your reasoning.
+3. Your ability to justify your solution choices based on things we have learned in class and in readings.
+
+Note that the *correctness* of your solution is not a criterion. Yes, correct solutions may tend to be higher quality, but an incorrect solution could still be high quality if the steps taken along the way are coherent and generally sensible.
+
+ 
+**Additional notes for explicators**
+
+- You may use your notes (i.e. your homework solutions) as you write and explain your solution. However, *please do not treat this as an exercise in rote memorization*. You need to understand your solutions in order to answer questions about them.
+
+- You should be prepared to explain your solution to any of the homework problems from the current week's assignment. You will not know in advance which solution you will be asked to explain.
