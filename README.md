@@ -6,7 +6,7 @@
   - Lecture: Tues, Thurs 9:30 - 10:45 am, Data Science Building Room 246
   - Office hours: TBD
 - Teaching Assistant: [Elizabeth Miller](https://datascience.virginia.edu/people/elizabeth-miller) (zrc3hc@virginia.edu)
-  - Office hours: TBD
+  - Office hours: Fri 9:30 - 10:30 am, Location TBD
 - [Canvas site](https://canvas.its.virginia.edu/courses/166996)
 
 --------------
@@ -59,27 +59,37 @@
 
 ### Schedule
 
-<u>Jan 13 2026</u>: Course overview
+<u>Jan 13 2026</u>: Course overview + notions of convergence
 
-[//]: # <u>Jan 15 2026</u>: TBD HW1 assigned
+[//]: # Statistical models, convergence in probability, almost sure, distribution, continuous mapping theorem
 
-[//]: # <u>Jan 20 2026</u>: TBD
+<u>Jan 15 2026</u>: Sample sizes tending toward infinity
+
+[//]: # Consistency, Slutsky's theorem, Taylor approximation, Delta Method --- follow Casella Berger Ch. 5 / VDV
+
+- HW1 assigned
+
+[//]: # <u>Jan 20 2026</u>: Estimation
+
+[//]: # Optimal estimation intro + data reduction via sufficiency --- follow Mackey's Lecture 1 notes, Casella Berger Ch. 6, Kay Ch. 2
 
 [//]: # <u>Jan 22 2026</u>: TBD HW2 assigned
 
-[//]: # <u>Jan 27 2026</u>: TBD
+[//]: # Information and CRLB
+
+[//]: # <u>Jan 27 2026</u>: Hypothesis testing
 
 [//]: # <u>Jan 29 2026</u>: TBD HW3 assigned
 
-[//]: # <u>Feb 03 2026</u>: TBD
+[//]: # <u>Feb 03 2026</u>: Interval estimation
 
 [//]: # <u>Feb 05 2026</u>: TBD HW4 assigned
 
-[//]: # <u>Feb 10 2026</u>: TBD
+[//]: # <u>Feb 10 2026</u>: Exponential families
 
-[//]: # <u>Feb 12 2026</u>: TBD HW5 assigned
+[//]: # <u>Feb 12 2026</u>: Maximum likelihood TBD HW5 assigned
 
-[//]: # <u>Feb 17 2026</u>: TBD
+[//]: # <u>Feb 17 2026</u>: Asymptotic properties of MLEs
 
 [//]: # <u>Feb 19 2026</u>: TBD Midterm practice given
 
@@ -130,7 +140,7 @@ Final grades will be computed using the following weighting:
 
 - Attendance (5%)
 - Homework (30%)
-- Homework explications (15%)
+- [Homework explications](https://canvas.its.virginia.edu/courses/166996/pages/homework-explications) (15%)
 - Midterm exam (20%)
 - Final exam (30%)
 
