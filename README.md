@@ -223,5 +223,4 @@ Note that the *correctness* of your solution is not a criterion. Yes, correct so
 **Additional notes for explicators**
 
 - You may use your notes (i.e. your homework solutions) as you write and explain your solution. However, *please do not treat this as an exercise in rote memorization*. You need to understand your solutions in order to answer questions about them.
-
 - You should be prepared to explain your solution to any of the homework problems from the current week's assignment. You will not know in advance which solution you will be asked to explain.
