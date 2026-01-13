@@ -184,6 +184,22 @@ Attendance in this class is mandatory. If you need to miss a class for any reaso
 
 Students are expected to communicate with me as soon as possible regarding extenuating circumstances and how their participation in the course, including attendance and assignment submissions, may be affected by them.
 
+**Academic Integrity**
+
+I encourage collaboration among students to complete homework assignments. The purpose of collaborating is to help yourself and your classmates learn the material more effectively.
+
+Do not cheat. Cheating circumvents the learning process and deprives you of the chance to gain expertise in your discipline. It also puts you in a position to fail the in-class exams, for which you will not be able to use resources outside of your own problem-solving ability.
+
+I ask that you:
+
+1. Do not copy text or code from classmates, the internet, or AI systems. Write your own solutions and understand them.
+
+2. Do not share text or code with classmates or post your solutions in a place where everyone can access them. If you are collaborating with others, you are working together to arrive at a solution.
+
+3. Try to solve each problem before resorting to outside help. Even if you do not ultimately arrive at a solution completely on your own, starting the solution process by yourself is crucial to learning.
+
+If an action you are considering is not covered by one of these specific asks, please use your own sense of right and wrong to determine whether it constitutes cheating.
+
 ### University Support and Policies
 
   - [School of Data Science Support and Policies](https://canvas.its.virginia.edu/courses/152505/pages/school-of-data-science-support-and-policies)
