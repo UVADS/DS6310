@@ -188,7 +188,7 @@ Students are expected to communicate with me as soon as possible regarding exten
 
 I encourage collaboration among students to complete homework assignments. The purpose of collaborating is to help yourself and your classmates learn the material more effectively.
 
-Do not cheat. Cheating circumvents the learning process and deprives you of the chance to gain expertise in your discipline. It also puts you in a position to fail the in-class exams, for which you will not be able to use resources outside of your own problem-solving ability.
+Do not cheat. Cheating circumventes the learning process and deprives you of the chance to gain expertise in your discipline. It also puts you in a position to fail the in-class exams, for which you will not be able to use resources outside of your own problem solving ability
 
 I ask that you:
 
@@ -199,6 +199,7 @@ I ask that you:
 3. Try to solve each problem before resorting to outside help. Even if you do not ultimately arrive at a solution completely on your own, starting the solution process by yourself is crucial to learning.
 
 If an action you are considering is not covered by one of these specific asks, please use your own sense of right and wrong to determine whether it constitutes cheating.
+
 
 ### University Support and Policies
 
