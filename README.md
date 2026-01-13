@@ -194,7 +194,7 @@ I ask that you:
 
 1. Do not copy text or code from classmates, the internet, or AI systems. Write your own solutions and understand them.
 
-2. Do not share text or code with classmates or post your solutions in a place where everyone can access them. If you are collaborating with others, you are working together to arrive at a solution.
+2. Do not send text or code to classmates or post your solutions in a place where everyone can access them. If you are collaborating with others, you are working together to arrive at a solution.
 
 3. Try to solve each problem before resorting to outside help. Even if you do not ultimately arrive at a solution completely on your own, starting the solution process by yourself is crucial to learning.
 
