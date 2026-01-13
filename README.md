@@ -193,9 +193,7 @@ Do not cheat. Cheating circumventes the learning process and deprives you of the
 I ask that you:
 
 1. Do not copy text or code from classmates, the internet, or AI systems. Write your own solutions and understand them.
-
 2. Do not send text or code to classmates or post your solutions in a place where everyone can access them. If you are collaborating with others, you are working together to arrive at a solution.
-
 3. Try to solve each problem before resorting to outside help. Even if you do not ultimately arrive at a solution completely on your own, starting the solution process by yourself is crucial to learning.
 
 If an action you are considering is not covered by one of these specific asks, please use your own sense of right and wrong to determine whether it constitutes cheating.
@@ -221,10 +219,9 @@ For each homework that is assigned, two students will be asked to give an explic
 
 1. At the start of class time, the instructor will choose a homework problem from the week's assignment and ask one of the students to present their solution to the problem to the class on the whiteboard (if an element of the solution involves a simulation, the student may use a laptop as well).
 
-2. A Q&A / discussion will follow, in which members of the class and/or the instructor may ask clarifying questions of the presenting student. Subjects of relevance to lecture material will be elucidated.
+2. A Q&A and discussion will follow, in which members of the class and/or the instructor may ask clarifying questions of the presenting student. Subjects of relevance to lecture material will be elucidated.
 
-3. Steps 1. and 2. will be repeated for the second student, but a different problem will be chosen.
-The two explications combined should take around 25-30 minutes of class time.
+3. Steps 1. and 2. will be repeated for the second student, but a different problem will be chosen. The two explications combined should take around 25-30 minutes of class time.
 
 **How will explications be graded?**
 
@@ -240,4 +237,5 @@ Note that the *correctness* of your solution is not a criterion. Yes, correct so
 **Additional notes for explicators**
 
 - You may use your notes (i.e. your homework solutions) as you write and explain your solution. However, *please do not treat this as an exercise in rote memorization*. You need to understand your solutions in order to answer questions about them.
+
 - You should be prepared to explain your solution to any of the homework problems from the current week's assignment. You will not know in advance which solution you will be asked to explain.
