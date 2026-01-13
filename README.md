@@ -59,13 +59,11 @@
 
 ### Schedule
 
-<u>Jan 13 2026</u>: Course overview + notions of convergence
-
-[//]: # Statistical models, convergence in probability, almost sure, distribution, continuous mapping theorem
+<u>Jan 13 2026</u>: Course overview + the terminology of inference
 
 <u>Jan 15 2026</u>: Sample sizes tending toward infinity
 
-[//]: # Consistency, Slutsky's theorem, Taylor approximation, Delta Method --- follow Casella Berger Ch. 5 / VDV
+[//]: # convergence in probability, almost sure, distribution, continuous mapping theorem, Slutsky's theorem, Taylor approximation, Delta Method --- follow Casella Berger Ch. 5 / VDV
 
 - HW1 assigned
 
