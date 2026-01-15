@@ -82,7 +82,7 @@
 
 <u>Jan 29 2026</u>: 
 
-- HW2 explication: *Cynthia and Andres*
+- HW2 explication: *Andres and Cynthia*
 - HW3 assigned
 
 [//]: # <u>Feb 03 2026</u>: Interval estimation
