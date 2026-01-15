@@ -6,7 +6,7 @@
   - Lecture: Tues, Thurs 9:30 - 10:45 am, Data Science Building Room 246
   - Office hours: Wed 2:00 - 3:00 pm, Data Science Building Room 347
 - Teaching Assistant: [Elizabeth Miller](https://datascience.virginia.edu/people/elizabeth-miller) (zrc3hc@virginia.edu)
-  - Office hours: Fri 9:30 - 10:30 am, Location TBD
+  - Office hours: Fri 9:30 - 10:30 am, Data Science Building Room 300
 - [Canvas site](https://canvas.its.virginia.edu/courses/166996)
 
 --------------
@@ -63,23 +63,27 @@
 
 <u>Jan 15 2026</u>: Sample sizes tending toward infinity
 
-[//]: # convergence in probability, almost sure, distribution, continuous mapping theorem,  --- follow Casella Berger Ch. 5 / VDV
-
 - [HW1 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW1?preview=18088708) (due 01/22/2026 at 9:30 am)
 
-[//]: # <u>Jan 20 2026</u>: Estimation
+<u>Jan 20 2026</u>: Consistency of estimators
 
-[//]: # Slutsky's theorem, Taylor approximation, Delta Method
+[//]: # Consistency Slutsky's theorem, Taylor approximation, Delta Method
 
-[//]: # <u>Jan 22 2026</u>: TBD HW2 assigned
+<u>Jan 22 2026</u>: Minimum risk estimation, bias and variance
+
+- HW1 explication: *Stephanie and Ziqian*
+- HW2 assigned
 
 [//]: # Optimal estimation intro + data reduction via sufficiency --- follow Mackey's Lecture 1 notes, Casella Berger Ch. 6, Kay Ch. 2
 
 [//]: # Information and CRLB
 
-[//]: # <u>Jan 27 2026</u>: Hypothesis testing
+<u>Jan 27 2026</u>: TBD
 
-[//]: # <u>Jan 29 2026</u>: TBD HW3 assigned
+<u>Jan 29 2026</u>: 
+
+- HW2 explication: *Cynthia and Andres*
+- HW3 assigned
 
 [//]: # <u>Feb 03 2026</u>: Interval estimation
 
