@@ -17,7 +17,7 @@
 
 - [Statistical Inference](https://pages.stat.wisc.edu/~shao/stat610/Casella_Berger_Statistical_Inference.pdf) (Casella & Berger)
 
-- Course notes
+- [Course notes](https://canvas.its.virginia.edu/courses/166996/files/folder/Notes)
 
 - Course code snippets
 
