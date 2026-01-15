@@ -72,7 +72,7 @@
 <u>Jan 22 2026</u>: Minimum risk estimation, bias and variance
 
 - HW1 explication: *Stephanie and Ziqian*
-- HW2 assigned
+- HW2 assigned (due 01/29/2026 at 9:30 am)
 
 [//]: # Optimal estimation intro + data reduction via sufficiency --- follow Mackey's Lecture 1 notes, Casella Berger Ch. 6, Kay Ch. 2
 
@@ -83,7 +83,7 @@
 <u>Jan 29 2026</u>: 
 
 - HW2 explication: *Andres and Cynthia*
-- HW3 assigned
+- HW3 assigned (due 02/05/2026 at 9:30 am)
 
 [//]: # <u>Feb 03 2026</u>: Interval estimation
 
