@@ -65,22 +65,20 @@
 
 - [HW1 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW1?preview=18088708) (due 01/22/2026 at 9:30 am)
 
-<u>Jan 20 2026</u>: Consistency of estimators
+<u>Jan 20 2026</u>: Analyzing estimators, consistency
 
 [//]: # Consistency Slutsky's theorem, Taylor approximation, Delta Method
 
-<u>Jan 22 2026</u>: Minimum risk estimation, bias and variance
+<u>Jan 22 2026</u>: Bias and variance
 
 - HW1 explication: *Stephanie and Ziqian*
 - HW2 assigned (due 01/29/2026 at 9:30 am)
 
 [//]: # Optimal estimation intro + data reduction via sufficiency --- follow Mackey's Lecture 1 notes, Casella Berger Ch. 6, Kay Ch. 2
 
-[//]: # Information and CRLB
+<u>Jan 27 2026</u>: Bounds for optimal estimation, information
 
-<u>Jan 27 2026</u>: TBD
-
-<u>Jan 29 2026</u>: 
+<u>Jan 29 2026</u>: Data reduction, sufficiency
 
 - HW2 explication: *Andres and Cynthia*
 - HW3 assigned (due 02/05/2026 at 9:30 am)
