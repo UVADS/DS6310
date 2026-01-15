@@ -65,7 +65,7 @@
 
 [//]: # convergence in probability, almost sure, distribution, continuous mapping theorem,  --- follow Casella Berger Ch. 5 / VDV
 
-- [HW1 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW1?preview=18086771) (due 01/22/2026 at 9:30 am)
+- [HW1 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW1?preview=18088708) (due 01/22/2026 at 9:30 am)
 
 [//]: # <u>Jan 20 2026</u>: Estimation
 
