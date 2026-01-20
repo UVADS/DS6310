@@ -4,7 +4,7 @@
 
 - Instructor: [Jordan Bryan](https://j-g-b.github.io) (jbryan@virginia.edu)
   - Lecture: Tues, Thurs 9:30 - 10:45 am, Data Science Building Room 246
-  - Office hours: Wed 2:00 - 3:00 pm, Data Science Building Room 347
+  - Office hours: Mon 2:00 - 3:00 pm, Data Science Building Room 347
 - Teaching Assistant: [Elizabeth Miller](https://datascience.virginia.edu/people/elizabeth-miller) (zrc3hc@virginia.edu)
   - Office hours: Fri 9:30 - 10:30 am, Data Science Building Room 300
 - [Canvas site](https://canvas.its.virginia.edu/courses/166996)
@@ -65,7 +65,7 @@
 
 - [HW1 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW1?preview=18088708) (due 01/22/2026 at 9:30 am)
 
-<u>Jan 20 2026</u>: Analyzing estimators, consistency
+<u>Jan 20 2026</u>: Beyond the CLT, analyzing estimators
 
 [//]: # Consistency Slutsky's theorem, Taylor approximation, Delta Method
 
