@@ -74,8 +74,6 @@
 - HW1 explication: *Stephanie and Ziqian*
 - HW2 assigned (due 01/29/2026 at 9:30 am)
 
-[//]: # Optimal estimation intro + data reduction via sufficiency --- follow Mackey's Lecture 1 notes, Casella Berger Ch. 6, Kay Ch. 2
-
 <u>Jan 27 2026</u>: Bounds for optimal estimation, information
 
 <u>Jan 29 2026</u>: Data reduction, sufficiency
@@ -85,15 +83,24 @@
 
 [//]: # <u>Feb 03 2026</u>: Interval estimation
 
-[//]: # <u>Feb 05 2026</u>: TBD HW4 assigned
+<u>Feb 05 2026</u>: TBD
+
+- HW3 explication: *Habiba and Stephanie*
+- HW4 assigned (due 02/12/2026 at 9:30 am)
 
 [//]: # <u>Feb 10 2026</u>: Exponential families
 
-[//]: # <u>Feb 12 2026</u>: Maximum likelihood TBD HW5 assigned
+<u>Feb 12 2026</u>: TBD
+
+- HW4 explication: *Ziqian and Andres*
+- HW5 assigned (due 02/19/2026 at 9:30 am)
 
 [//]: # <u>Feb 17 2026</u>: Asymptotic properties of MLEs
 
-[//]: # <u>Feb 19 2026</u>: TBD Midterm practice given
+<u>Feb 19 2026</u>: TBD 
+
+- HW5 explication: *Cynthia and Habiba*
+- HW6 assigned (due 03/12/2026 at 9:30 am)
 
 [//]: # <u>Feb 24 2026</u>: Midterm review
 
@@ -103,23 +110,38 @@
 
 [//]: # <u>Mar 10 2026</u>: TBD
 
-[//]: # <u>Mar 12 2026</u>: TBD HW6 assigned
+<u>Mar 12 2026</u>: TBD
+
+- HW6 explication: *Stephanie and Andres*
+- HW7 assigned (due 03/19/2026 at 9:30 am)
 
 [//]: # <u>Mar 17 2026</u>: TBD
 
-[//]: # <u>Mar 19 2026</u>: TBD HW7 assigned
+<u>Mar 19 2026</u>: TBD
+
+- HW7 explication: *Habiba and Cynthia*
+- HW8 assigned (due 03/26/2026 at 9:30 am)
 
 [//]: # <u>Mar 24 2026</u>: TBD
 
-[//]: # <u>Mar 26 2026</u>: TBD HW8 assigned
+<u>Mar 26 2026</u>: TBD
+
+- HW8 explication: *Ziqian and Stephanie*
+- HW9 assigned (due 04/02/2026 at 9:30 am)
 
 [//]: # <u>Mar 31 2026</u>: TBD
 
-[//]: # <u>Apr 02 2026</u>: TBD HW9 assigned
+<u>Apr 02 2026</u>: TBD
+
+- HW9 explication: *Andres and Habiba*
+- HW10 assigned (due 04/09/2026 at 9:30 am)
 
 [//]: # <u>Apr 07 2026</u>: TBD
 
-[//]: # <u>Apr 09 2026</u>: TBD HW10 assigned
+<u>Apr 09 2026</u>: TBD
+
+- HW10 explication: *Cynthia and Ziqian*
+- HW11 assigned (due 04/16/2026 at 9:30 am)
 
 [//]: # <u>Apr 14 2026</u>: TBD
 
