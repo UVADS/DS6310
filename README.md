@@ -63,13 +63,13 @@
 
 <u>Jan 15 2026</u>: Sample sizes tending toward infinity
 
-- [HW1 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW1?preview=18088708) (due 01/22/2026 at 9:30 am)
+- [HW1 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW1?preview=18088708) (due 01/22/2026 at 9:30 am) ([Solutions](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW1?preview=18088668))
 
 <u>Jan 20 2026</u>: Beyond the CLT, analyzing estimators
 
 [//]: # Consistency Slutsky's theorem, Taylor approximation, Delta Method
 
-<u>Jan 22 2026</u>: Bias and variance
+<u>Jan 22 2026</u>: Properties of estimators
 
 - HW1 explication: *Stephanie and Ziqian*
 - [HW2 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW2?preview=18162845) (due 01/29/2026 at 9:30 am)
