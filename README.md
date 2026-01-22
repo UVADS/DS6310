@@ -74,9 +74,9 @@
 - HW1 explication: *Stephanie and Ziqian*
 - [HW2 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW2?preview=18162845) (due 01/29/2026 at 9:30 am)
 
-<u>Jan 27 2026</u>: Bounds for optimal estimation, information
+<u>Jan 27 2026</u>: Data reduction, sufficiency
 
-<u>Jan 29 2026</u>: Data reduction, sufficiency
+<u>Jan 29 2026</u>: Bounds for optimal estimation, information
 
 - HW2 explication: *Andres and Cynthia*
 - HW3 assigned (due 02/05/2026 at 9:30 am)
