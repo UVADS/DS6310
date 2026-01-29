@@ -79,9 +79,9 @@
 <u>Jan 29 2026</u>: Bounds for optimal estimation, information
 
 - HW2 explication: *Andres and Cynthia*
-- HW3 assigned (due 02/05/2026 at 9:30 am)
+- [HW3 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW3?preview=18255652) (due 02/05/2026 at 9:30 am)
 
-[//]: # <u>Feb 03 2026</u>: Interval estimation
+[//]: # <u>Feb 03 2026</u>: Likelihood
 
 <u>Feb 05 2026</u>: TBD
 
