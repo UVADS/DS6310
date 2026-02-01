@@ -76,12 +76,12 @@
 
 <u>Jan 27 2026</u>: Data reduction, sufficiency
 
-<u>Jan 29 2026</u>: Bounds for optimal estimation, information
+<u>Jan 29 2026</u>: Bounds for optimal estimation
 
 - HW2 explication: *Andres and Cynthia*
 - [HW3 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW3?preview=18255652) (due 02/05/2026 at 9:30 am)
 
-[//]: # <u>Feb 03 2026</u>: Likelihood
+<u>Feb 03 2026</u>: Likelihood and statistical information
 
 <u>Feb 05 2026</u>: TBD
 
