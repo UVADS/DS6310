@@ -72,7 +72,7 @@
 <u>Jan 22 2026</u>: Properties of estimators
 
 - HW1 explication: *Stephanie and Ziqian*
-- [HW2 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW2?preview=18170421) (due 01/29/2026 at 9:30 am) ([Solutions](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW2?preview=18170577))
+- [HW2 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW2?preview=18170421) (due 01/29/2026 at 9:30 am) ([Solutions](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW2?preview=18328984))
 
 <u>Jan 27 2026</u>: Data reduction, sufficiency
 
