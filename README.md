@@ -79,14 +79,14 @@
 <u>Jan 29 2026</u>: Bounds for optimal estimation
 
 - HW2 explication: *Andres and Cynthia*
-- [HW3 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW3?preview=18255652) (due 02/05/2026 at 9:30 am)
+- [HW3 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW3?preview=18255652) (due 02/05/2026 at 9:30 am) ([Solutions](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW3?preview=18288854))
 
 <u>Feb 03 2026</u>: Likelihood and statistical information
 
-<u>Feb 05 2026</u>: TBD
+<u>Feb 05 2026</u>: Information for multiple parameters and transformed parameters
 
 - HW3 explication: *Habiba and Stephanie*
-- HW4 assigned (due 02/12/2026 at 9:30 am)
+- [HW4 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW4?preview=18342511) (due 02/12/2026 at 9:30 am)
 
 [//]: # <u>Feb 10 2026</u>: Exponential families
 
