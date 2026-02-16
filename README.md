@@ -86,7 +86,7 @@
 <u>Feb 05 2026</u>: Information for multiple parameters and transformed parameters
 
 - HW3 explication: *Habiba and Stephanie*
-- [HW4 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW4?preview=18342511) (due 02/12/2026 at 9:30 am)
+- [HW4 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW4?preview=18342511) (due 02/12/2026 at 9:30 am) ([Solutions](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW4?preview=18445905))
 
 <u>Feb 10 2026</u>: Maximum likelihood estimation
 
@@ -95,9 +95,9 @@
 - HW4 explication: *Ziqian and Andres*
 - HW5 assigned (due 02/19/2026 at 9:30 am)
 
-[//]: # <u>Feb 17 2026</u>: Other inference tasks
+<u>Feb 17 2026</u>: Hypothesis testing + interval estimation I
 
-<u>Feb 19 2026</u>: TBD 
+<u>Feb 19 2026</u>: Hypothesis testing + interval estimation II
 
 - HW5 explication: *Cynthia and Habiba*
 - HW6 assigned (due 03/12/2026 at 9:30 am)
@@ -119,14 +119,14 @@
 
 <u>Mar 19 2026</u>: TBD
 
-- HW7 explication: *Habiba and Cynthia*
+- HW7 explication: *Stephanie and Cynthia*
 - HW8 assigned (due 03/26/2026 at 9:30 am)
 
 [//]: # <u>Mar 24 2026</u>: TBD
 
 <u>Mar 26 2026</u>: TBD
 
-- HW8 explication: *Ziqian and Stephanie*
+- HW8 explication: *Ziqian and Habiba*
 - HW9 assigned (due 04/02/2026 at 9:30 am)
 
 [//]: # <u>Mar 31 2026</u>: TBD
