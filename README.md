@@ -104,6 +104,8 @@
 
 <u>Feb 24 2026</u>: Midterm review
 
+- [Practice problems](https://canvas.its.virginia.edu/courses/166996/files/folder/Exams?preview=18533835)
+
 <u>Feb 26 2026</u>: Midterm exam
 
 <u>Mar 03-05 2026</u>: Spring recess (no class)
