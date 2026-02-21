@@ -100,7 +100,7 @@
 <u>Feb 19 2026</u>: Hypothesis testing + interval estimation II
 
 - HW5 explication: *Cynthia and Habiba*
-- HW6 assigned (due 03/12/2026 at 9:30 am)
+- [HW6 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW6?preview=18544402) (due 03/12/2026 at 9:30 am)
 
 <u>Feb 24 2026</u>: Midterm review
 
