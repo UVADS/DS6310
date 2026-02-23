@@ -93,7 +93,7 @@
 <u>Feb 12 2026</u>: Asymptotic properties of MLEs
 
 - HW4 explication: *Ziqian and Andres*
-- [HW5 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW5) (due 02/19/2026 at 9:30 am)
+- [HW5 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW5) (due 02/19/2026 at 9:30 am) ([Solutions](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW5?preview=18474250))
 
 <u>Feb 17 2026</u>: Hypothesis testing + interval estimation I
 
