@@ -105,6 +105,7 @@
 <u>Feb 24 2026</u>: Midterm review
 
 - [Practice problems](https://canvas.its.virginia.edu/courses/166996/files/folder/Exams?preview=18533835)
+- [Cheat sheet](https://canvas.its.virginia.edu/courses/166996/files/folder/Exams?preview=18579004)
 
 <u>Feb 26 2026</u>: Midterm exam
 
