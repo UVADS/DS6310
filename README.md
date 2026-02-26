@@ -109,6 +109,8 @@
 
 <u>Feb 26 2026</u>: Midterm exam
 
+- [Solutions](https://canvas.its.virginia.edu/courses/166996/files/folder/Exams?preview=18610002)
+
 <u>Mar 03-05 2026</u>: Spring recess (no class)
 
 [//]: # <u>Mar 10 2026</u>: TBD
