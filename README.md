@@ -113,7 +113,7 @@
 
 <u>Mar 03-05 2026</u>: Spring recess (no class)
 
-[//]: # <u>Mar 10 2026</u>: TBD
+<u>Mar 10 2026</u>: Introduction to prediction
 
 <u>Mar 12 2026</u>: TBD
 
@@ -124,14 +124,14 @@
 
 <u>Mar 19 2026</u>: TBD
 
-- HW7 explication: *Stephanie and Cynthia*
+- HW7 explication: *Stephanie and Ziqian*
 - HW8 assigned (due 03/26/2026 at 9:30 am)
 
 [//]: # <u>Mar 24 2026</u>: TBD
 
 <u>Mar 26 2026</u>: TBD
 
-- HW8 explication: *Ziqian and Habiba*
+- HW8 explication: *Cynthia and Habiba*
 - HW9 assigned (due 04/02/2026 at 9:30 am)
 
 [//]: # <u>Mar 31 2026</u>: TBD
