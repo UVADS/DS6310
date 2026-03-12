@@ -115,7 +115,7 @@
 
 <u>Mar 10 2026</u>: Introduction to prediction
 
-<u>Mar 12 2026</u>: TBD
+<u>Mar 12 2026</u>: Nearest-neighbor methods and the bias-variance decomposition
 
 - HW6 explication: *Stephanie and Andres*
 - HW7 assigned (due 03/19/2026 at 9:30 am)
