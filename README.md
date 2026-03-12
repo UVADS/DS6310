@@ -120,7 +120,7 @@
 - HW6 explication: *Stephanie and Andres*
 - HW7 assigned (due 03/19/2026 at 9:30 am)
 
-[//]: # <u>Mar 17 2026</u>: TBD
+<u>Mar 17 2026</u>: In-sample error, generalization error, and optimism
 
 <u>Mar 19 2026</u>: TBD
 
