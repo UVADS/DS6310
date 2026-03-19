@@ -115,19 +115,19 @@
 
 <u>Mar 10 2026</u>: Introduction to prediction
 
-<u>Mar 12 2026</u>: Nearest-neighbor methods and the bias-variance decomposition
+<u>Mar 12 2026</u>: Nearest-neighbor methods
 
 - HW6 explication: *Stephanie and Andres*
-- [HW7 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW7?preview=18743321) (due 03/19/2026 at 9:30 am)
+- [HW7 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW7?preview=18743321) (due 03/19/2026 at 9:30 am) ([Solutions](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW7?preview=18818723))
 
-<u>Mar 17 2026</u>: In-sample error, generalization error, and optimism
+<u>Mar 17 2026</u>: Decompositions of prediction error
 
-<u>Mar 19 2026</u>: TBD
+<u>Mar 19 2026</u>: Likelihood-based loss functions
 
 - HW7 explication: *Stephanie and Ziqian*
 - HW8 assigned (due 03/26/2026 at 9:30 am)
 
-[//]: # <u>Mar 24 2026</u>: TBD
+<u>Mar 24 2026</u>: TBD
 
 <u>Mar 26 2026</u>: TBD
 
