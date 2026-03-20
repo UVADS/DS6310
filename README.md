@@ -125,7 +125,7 @@
 <u>Mar 19 2026</u>: Likelihood-based loss functions
 
 - HW7 explication: *Stephanie and Ziqian*
-- [HW8 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW8?preview=18842161) (due 03/26/2026 at 9:30 am)
+- [HW8 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW8?preview=18844346) (due 03/26/2026 at 9:30 am)
 
 <u>Mar 24 2026</u>: TBD
 
