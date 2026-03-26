@@ -1,8 +1,3 @@
----
-output:
-  html_document: default
-  pdf_document: default
----
 ## Theory II: Inference & Prediction - Spring 2026
 
 ### Course information
@@ -134,7 +129,7 @@ output:
 
 <u>Mar 24 2026</u>: Error concepts for linear prediction rules
 
-<u>Mar 26 2026</u>: Cp, SURE, and AIC
+<u>Mar 26 2026</u>: $C_p$, SURE, and AIC
 
 - HW8 explication: *Cynthia and Habiba*
 - [HW9 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW9?preview=18913673) (due 04/02/2026 at 9:30 am)
