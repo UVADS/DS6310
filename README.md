@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 ## Theory II: Inference & Prediction - Spring 2026
 
 ### Course information
@@ -125,14 +130,14 @@
 <u>Mar 19 2026</u>: Likelihood-based loss functions
 
 - HW7 explication: *Stephanie and Ziqian*
-- [HW8 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW8?preview=18844739) (due 03/26/2026 at 9:30 am)
+- [HW8 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW8?preview=18844739) (due 03/26/2026 at 9:30 am) ([Solutions](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW8?preview=18913666))
 
-<u>Mar 24 2026</u>: Estimates of generalization error
+<u>Mar 24 2026</u>: Error concepts for linear prediction rules
 
-<u>Mar 26 2026</u>: AIC and BIC
+<u>Mar 26 2026</u>: $C_p$, SURE, and AIC
 
 - HW8 explication: *Cynthia and Habiba*
-- HW9 assigned (due 04/02/2026 at 9:30 am)
+- [HW9 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW9?preview=18913673) (due 04/02/2026 at 9:30 am)
 
 [//]: # <u>Mar 31 2026</u>: TBD
 
