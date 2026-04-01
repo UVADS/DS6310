@@ -134,9 +134,9 @@
 - HW8 explication: *Cynthia and Habiba*
 - [HW9 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW9?preview=18913673) (due 04/02/2026 at 9:30 am)
 
-[//]: # <u>Mar 31 2026</u>: TBD
+<u>Mar 31 2026</u>: Empirical estimates of prediction error
 
-<u>Apr 02 2026</u>: TBD
+<u>Apr 02 2026</u>: Bootstrapping
 
 - HW9 explication: *Andres and Habiba*
 - HW10 assigned (due 04/09/2026 at 9:30 am)
