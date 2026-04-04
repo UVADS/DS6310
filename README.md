@@ -139,7 +139,7 @@
 <u>Apr 02 2026</u>: Bootstrapping
 
 - HW9 explication: *Andres and Habiba*
-- [HW10 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW10?preview=19024070) (due 04/09/2026 at 9:30 am)
+- [HW10 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW10?preview=19034729) (due 04/09/2026 at 9:30 am)
 
 [//]: # <u>Apr 07 2026</u>: TBD
 
