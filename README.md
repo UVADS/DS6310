@@ -25,6 +25,8 @@
 
 - [Prediction, Estimation, and Attribution](https://med.stanford.edu/content/dam/sm/dbds/documents/biostats-workshop/paper-1-.pdf)
 
+- [Ridge regularization: an essential concept in data science](https://www.tandfonline.com/doi/full/10.1080/00401706.2020.1791959#abstract)
+
 
 --------------
 
@@ -141,9 +143,9 @@
 - HW9 explication: *Andres and Habiba*
 - [HW10 assigned](https://canvas.its.virginia.edu/courses/166996/files/folder/Homework/HW10?preview=19024290) (due 04/09/2026 at 9:30 am)
 
-[//]: # <u>Apr 07 2026</u>: TBD
+<u>Apr 07 2026</u>: Ridge regularization
 
-<u>Apr 09 2026</u>: TBD
+<u>Apr 09 2026</u>: Ridge and prediction concepts
 
 - HW10 explication: *Cynthia and Ziqian*
 - HW11 assigned (due 04/16/2026 at 9:30 am)
