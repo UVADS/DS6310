@@ -149,6 +149,7 @@
 
 - HW10 explication: *Cynthia and Ziqian*
 - HW11 assigned (due 04/16/2026 at 9:30 am)
+  - For HW11, please read the article ``[Surprises in high-dimensional ridgeless least squares interpolation](https://projecteuclid.org/journals/annals-of-statistics/volume-50/issue-2/Surprises-in-high-dimensional-ridgeless-least-squares-interpolation/10.1214/21-AOS2133.full)" and be prepared to discuss this article in class on April 16th.
 
 [//]: # <u>Apr 14 2026</u>: TBD
 
