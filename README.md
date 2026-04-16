@@ -160,7 +160,7 @@
 
 <u>Apr 28 2026</u>: Final review
 
-<u>May 04 2026</u>: Final exam (2:00 - 5:00 pm, location TBD)
+<u>May 04 2026</u>: Final exam (2:00 - 5:00 pm, location SDS 246)
 
 
 --------------
