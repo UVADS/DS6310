@@ -150,9 +150,9 @@
 
 <u>Apr 14 2026</u>: Ridge + data augmentation and dropout
 
-<u>Apr 16 2026</u>: ``Ridgeless" interpolation
+<u>Apr 16 2026</u>: Ridgeless interpolation
 
-- For HW12, please read these notes on "[Conformal prediction](https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/conformal.pdf)" and be prepared to discuss them in class on April 23rd at 9:30 am
+- For HW12, please [read these notes on conformal prediction](https://www.stat.berkeley.edu/~ryantibs/statlearn-s23/lectures/conformal.pdf) and be prepared to discuss them in class on April 23rd at 9:30 am
 
 <u>Apr 21 2026</u>: Conformal prediction I
 
