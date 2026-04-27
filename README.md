@@ -160,6 +160,8 @@
 
 <u>Apr 28 2026</u>: Final review
 
+- [Practice problems](https://canvas.its.virginia.edu/courses/166996/files/folder/Exams?preview=19315947)
+
 <u>May 04 2026</u>: Final exam (2:00 - 5:00 pm, location SDS 246)
 
 
