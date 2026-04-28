@@ -161,7 +161,7 @@
 <u>Apr 28 2026</u>: Final review
 
 - [Practice problems](https://canvas.its.virginia.edu/courses/166996/files/folder/Exams?preview=19340526)
-- [Cheat sheet](https://canvas.its.virginia.edu/courses/166996/files/folder/Exams?preview=19341358)
+- [Cheat sheet](https://canvas.its.virginia.edu/courses/166996/files/folder/Exams?preview=19341435)
 
 <u>May 04 2026</u>: Final exam (2:00 - 5:00 pm, location SDS 246)
 
